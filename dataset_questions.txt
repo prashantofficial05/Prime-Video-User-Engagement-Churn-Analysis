@@ -1,0 +1,20 @@
+01. Retrieve the names and email addresses of all users.
+02. Find the number of users by gender.
+03. Get the usernames and membership start dates of users who joined before a certain date (2024-03-13).
+04. Count the number of users from a specific location (let's say, locations that contains Port).
+05. List the subscription plans along with the count of users subscribed to each plan.
+06. Find the usernames and their corresponding payment information.
+07. Identify the renewal status of each user's subscription.
+08. Calculate the average usage frequency of all users.
+09. Determine the number of users with a specific purchase history.
+10. List the favorite genres of users along with the count of users for each genre.
+11. Retrieve the distinct devices used by users.
+12. Get the engagement metrics for users who gave feedback or ratings.
+13. Find the usernames of users who had customer support interactions.
+14. Identify the users who have memberships ending within a certain date range (in February 2025).
+15. List the users who have used a specific device (Tablet).
+16. Calculate the total feedback or ratings given by users.
+17. Get the usernames of users who have renewed their subscription.
+18. Find the usernames of users who have not made any purchases.
+19. Identify the most frequently used device among users.
+20. List the usernames and their corresponding locations for users who are highly engaged.
