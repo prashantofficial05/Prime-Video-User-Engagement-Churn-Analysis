@@ -1,19 +1,19 @@
-
 ### Prime Video User Engagement Churn Analysis
 
 **Introduction:**
-
-This project focuses on an exploratory data analysis (EDA) of fictional customer data from Amazon Prime Video India. The objective is to understand customer engagement, identify behavioral patterns, and analyze user churn. These insights aim to support Amazon in enhancing retention strategies, optimizing the user experience, and improving subscription-based decision-making. 
+    This project focuses on an exploratory data analysis (EDA) of fictional customer data from Amazon Prime Video India. The objective is to understand customer engagement, identify 
+  behavioral patterns, and analyze user churn. These insights aim to support Amazon in enhancing retention strategies, optimizing the user experience, and improving subscription-based 
+  decision-making. 
   
 **Goal:**
 
- To analyze user engagement and churn behavior for Amazon Prime Video India in order to optimize retention 
- strategies, personalize content offerings, and improve overall customer satisfaction.
+  To analyze user engagement and churn behavior for Amazon Prime Video India to optimize retention 
+  strategies, personalize content offerings, and improve overall customer satisfaction.
 
 **Description:**
-The project uses data from a fictional Amazon Prime Video userbase to answer key business questions, including:
+ The project uses data from a fictional Amazon Prime Video user base to answer key business questions, including:
 
-  - **Churn Prediction:** Identify users who are at high risk of churning.
+  - **Churn Prediction:** Identify users at high risk of churning.
   - **Engagement Patterns:** Analyze usage metrics such as watch time, login frequency, and subscription tenure.
   - **Plan Performance:** Compare engagement across different subscription plans (Basic, Standard, Premium).
   - **Genre Preferences:** Analyze most-watched genres to guide personalized recommendations..
@@ -39,7 +39,7 @@ The project uses data from a fictional Amazon Prime Video userbase to answer key
     
 **Key Findings:**
 
-   - **Premium Plan** users showed the highest average watch time but had a slightly higher churn rate than 
+   - **Premium Plan** users showed the highest average watch time, but had a slightly higher churn rate than 
         Standard users.
    - **Users with high activity in the first 7 days** post-subscription had a 40% higher retention rate.
    - **Drama and Thriller** are the most viewed genres across all regions.
@@ -52,4 +52,4 @@ The project uses data from a fictional Amazon Prime Video userbase to answer key
   - **Genre-Based Targeting:** Use top genres (Drama, Thriller) to promote similar content.
   - **A/B Testing:** Test personalized recommendations for new users in their first week.
   - **Plan Optimization:** Offer incentives or content bundles to retain Premium subscribers.
-  - **Product Experimentation:** Integrate ML churn prediction to proactively reach at-risk users.
+  - **Product Experimentation:** Integrate ML churn prediction to reach at-risk users proactively.
